@@ -4,7 +4,7 @@ published: true
 morea_id: learning-howto
 morea_summary: "Learning how to learn."
 morea_prerequisites:
-  - prerequisite-foo
+  # - prerequisite-foo
 morea_outcomes:
   - outcome2
   - outcome3

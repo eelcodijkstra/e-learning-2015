@@ -1,10 +1,11 @@
 ---
-title: "To Baz or not to Baz?"
+title: "MOOC: Learning how to learn"
 published: true
 morea_id: reading3
 morea_url: http://google.com
-morea_summary: "The third reading (google.com)"
+morea_summary: "MOOC - learning how to learn (Coursera)"
 morea_type: reading
 morea_sort_order: 3
 ---
 
+Zie de MOOC op Coursera: https://www.coursera.org/learn/learning-how-to-learn
