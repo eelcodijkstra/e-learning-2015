@@ -1,8 +1,8 @@
 ---
-title: "Learn to Bar"
+title: "Learning how to learn"
 published: true
-morea_id: bar
-morea_summary: "How to bar."
+morea_id: learning-howto
+morea_summary: "Learning how to learn."
 morea_prerequisites:
   - prerequisite-foo
 morea_outcomes:
@@ -14,9 +14,9 @@ morea_readings:
 morea_experiences:
   - experience2
 morea_assessments:
-  #- assessment2
+  - assessment2
 morea_type: module
 morea_sort_order: 2
 ---
 
-This is the second module in this sample template.
+Dit is de tweede module.

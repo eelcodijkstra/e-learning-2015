@@ -1,5 +1,5 @@
 ---
-title: "Assessment of the Bar"
+title: "Assessment of Learning how to learn"
 published: true
 morea_id: assessment2
 morea_type: assessment
