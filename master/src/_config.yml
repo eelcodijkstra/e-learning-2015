@@ -5,7 +5,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /e-learning-2015
+baseurl: /e-learning-2015gh-pages
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:
